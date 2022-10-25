@@ -1,0 +1,305 @@
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/appsettings.Development.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/appsettings.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Frameworks/Electron Framework.framework/Libraries/vk_swiftshader_icd.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/vk_swiftshader_icd.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Frameworks/Electron Framework.framework/Versions/Current/Libraries/vk_swiftshader_icd.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/azurecore/dist/nls.metadata.header.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/azurecore/dist/nls.metadata.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/azurecore/package.disabled.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/azurecore/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/azurecore/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/bat/language-configuration.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/bat/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/bat/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/bat/syntaxes/batchfile.tmLanguage.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/big-data-cluster/dist/nls.metadata.header.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/big-data-cluster/dist/nls.metadata.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/big-data-cluster/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/big-data-cluster/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/configuration-editing/dist/nls.metadata.header.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/configuration-editing/dist/nls.metadata.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/configuration-editing/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/configuration-editing/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/configuration-editing/schemas/attachContainer.schema.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/configuration-editing/schemas/devContainer.schema.generated.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/csharp/language-configuration.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/csharp/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/csharp/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/csharp/syntaxes/csharp.tmLanguage.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/dart/language-configuration.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/dart/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/dart/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/dart/syntaxes/dart.tmLanguage.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/data-workspace/dist/nls.metadata.header.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/data-workspace/dist/nls.metadata.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/data-workspace/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/data-workspace/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/data-workspace/package.vscode.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/docker/language-configuration.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/docker/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/docker/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/docker/syntaxes/docker.tmLanguage.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/fsharp/language-configuration.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/fsharp/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/fsharp/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/fsharp/syntaxes/fsharp.tmLanguage.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/git/dist/nls.metadata.header.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/git/dist/nls.metadata.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/git/languages/diff.language-configuration.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/git/languages/git-commit.language-configuration.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/git/languages/git-rebase.language-configuration.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/git/languages/ignore.language-configuration.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/git/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/git/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/git/resources/emojis.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/git/syntaxes/diff.tmLanguage.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/git/syntaxes/git-commit.tmLanguage.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/git/syntaxes/git-rebase.tmLanguage.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/git/syntaxes/ignore.tmLanguage.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/github-authentication/dist/nls.metadata.header.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/github-authentication/dist/nls.metadata.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/github-authentication/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/github-authentication/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/github/dist/nls.metadata.header.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/github/dist/nls.metadata.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/github/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/github/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/html/language-configuration.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/html/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/html/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/html/syntaxes/html-derivative.tmLanguage.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/html/syntaxes/html.tmLanguage.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/image-preview/dist/nls.metadata.header.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/image-preview/dist/nls.metadata.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/image-preview/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/image-preview/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/insights-default/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/javascript/javascript-language-configuration.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/javascript/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/javascript/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/javascript/syntaxes/JavaScript.tmLanguage.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/javascript/syntaxes/JavaScriptReact.tmLanguage.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/javascript/tags-language-configuration.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/json-language-features/client/dist/node/nls.metadata.header.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/json-language-features/client/dist/node/nls.metadata.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/json-language-features/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/json-language-features/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/json-language-features/server/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/json/language-configuration.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/json/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/json/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/json/syntaxes/JSON.tmLanguage.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/json/syntaxes/JSONC.tmLanguage.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/julia/language-configuration.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/julia/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/julia/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/julia/syntaxes/julia.tmLanguage.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/markdown-basics/language-configuration.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/markdown-basics/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/markdown-basics/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/markdown-basics/syntaxes/markdown.tmLanguage.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/markdown-language-features/dist/nls.metadata.header.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/markdown-language-features/dist/nls.metadata.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/markdown-language-features/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/markdown-language-features/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/markdown-language-features/schemas/package.schema.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/markdown-math/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/markdown-math/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/merge-conflict/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/merge-conflict/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/microsoft-authentication/dist/nls.metadata.header.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/microsoft-authentication/dist/nls.metadata.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/microsoft-authentication/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/microsoft-authentication/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/Microsoft.sqlservernotebook/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/Microsoft.sqlservernotebook/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/mssql/config.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/mssql/coverConfig.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/mssql/dist/nls.metadata.header.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/mssql/dist/nls.metadata.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/mssql/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/mssql/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/mssql/snippets/mssql.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/mssql/sqltoolsservice/OSX/4.2.1.6/Data/AzureComputePrices.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/mssql/sqltoolsservice/OSX/4.2.1.6/Data/AzureManagedDisk.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/mssql/sqltoolsservice/OSX/4.2.1.6/Data/AzurePaasStoragePrices.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/mssql/sqltoolsservice/OSX/4.2.1.6/Data/AzureSqlDatabasePrices.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/mssql/sqltoolsservice/OSX/4.2.1.6/Data/AzureSqlDb.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/mssql/sqltoolsservice/OSX/4.2.1.6/Data/AzureSqlManagedInstancePrices.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/mssql/sqltoolsservice/OSX/4.2.1.6/Data/AzureSqlMI.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/mssql/sqltoolsservice/OSX/4.2.1.6/Data/AzureSqlMI_GP_IOPS.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/mssql/sqltoolsservice/OSX/4.2.1.6/Data/AzureStoragePrices.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/mssql/sqltoolsservice/OSX/4.2.1.6/Data/AzureVirtualMachine.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/mssql/sqltoolsservice/OSX/4.2.1.6/Data/AzureVirtualMachineInPreview.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/mssql/sqltoolsservice/OSX/4.2.1.6/MicrosoftKustoServiceLayer.deps.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/mssql/sqltoolsservice/OSX/4.2.1.6/MicrosoftKustoServiceLayer.runtimeconfig.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/mssql/sqltoolsservice/OSX/4.2.1.6/MicrosoftSqlToolsCredentials.deps.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/mssql/sqltoolsservice/OSX/4.2.1.6/MicrosoftSqlToolsCredentials.runtimeconfig.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/mssql/sqltoolsservice/OSX/4.2.1.6/MicrosoftSqlToolsServiceLayer.deps.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/mssql/sqltoolsservice/OSX/4.2.1.6/MicrosoftSqlToolsServiceLayer.runtimeconfig.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/mssql/sqltoolsservice/OSX/4.2.1.6/SqlToolsResourceProviderService.deps.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/mssql/sqltoolsservice/OSX/4.2.1.6/SqlToolsResourceProviderService.runtimeconfig.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/notebook/dist/nls.metadata.header.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/notebook/dist/nls.metadata.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/notebook/kernels/powershell/kernel.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/notebook/kernels/pysparkkernel/kernel.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/notebook/kernels/sparkkernel/kernel.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/notebook/kernels/sparkrkernel/kernel.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/notebook/language-configuration.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/notebook/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/notebook/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/notebook/resources/jupyter_config/sparkmagic_config.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/notebook/saw-kernels/powershell/kernel.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/powershell/language-configuration.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/powershell/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/powershell/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/powershell/syntaxes/powershell.tmLanguage.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/python/language-configuration.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/python/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/python/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/python/syntaxes/MagicPython.tmLanguage.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/python/syntaxes/MagicRegExp.tmLanguage.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/r/language-configuration.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/r/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/r/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/r/syntaxes/r.tmLanguage.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/resource-deployment/dist/nls.metadata.header.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/resource-deployment/dist/nls.metadata.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/resource-deployment/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/resource-deployment/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/search-result/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/search-result/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/search-result/syntaxes/searchResult.tmLanguage.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/simple-browser/dist/nls.metadata.header.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/simple-browser/dist/nls.metadata.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/simple-browser/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/simple-browser/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/sql/language-configuration.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/sql/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/sql/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/sql/syntaxes/sql.tmLanguage.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-abyss/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-abyss/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-abyss/themes/abyss-color-theme.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-carbon/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-carbon/themes/dark_carbon.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-carbon/themes/light_carbon.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-defaults/fileicons/vs_minimal-icon-theme.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-defaults/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-defaults/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-defaults/themes/dark_defaults.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-defaults/themes/dark_plus.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-defaults/themes/dark_vs.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-defaults/themes/hc_black.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-defaults/themes/light_plus.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-defaults/themes/light_vs.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-kimbie-dark/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-kimbie-dark/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-kimbie-dark/themes/kimbie-dark-color-theme.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-monokai-dimmed/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-monokai-dimmed/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-monokai-dimmed/themes/dimmed-monokai-color-theme.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-monokai/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-monokai/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-monokai/themes/monokai-color-theme.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-quietlight/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-quietlight/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-quietlight/themes/quietlight-color-theme.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-red/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-red/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-red/themes/Red-color-theme.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-seti/icons/vs-seti-icon-theme.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-seti/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-seti/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-solarized-dark/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-solarized-dark/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-solarized-dark/themes/solarized-dark-color-theme.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-solarized-light/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-solarized-light/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-solarized-light/themes/solarized-light-color-theme.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-tomorrow-night-blue/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-tomorrow-night-blue/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/theme-tomorrow-night-blue/themes/tomorrow-night-blue-color-theme.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/xml-language-features/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/xml-language-features/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/xml/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/xml/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/xml/syntaxes/xml.tmLanguage.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/xml/syntaxes/xsl.tmLanguage.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/xml/xml.language-configuration.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/xml/xsl.language-configuration.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/yaml/language-configuration.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/yaml/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/yaml/package.nls.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/extensions/yaml/syntaxes/yaml.tmLanguage.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/out/nls.metadata.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/package.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/data/Azure Data Studio.app/Contents/Resources/app/product.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/Agenda
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/Agenda.deps.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/Agenda.runtimeconfig.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/Agenda.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/Agenda.pdb
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/obj/Debug/net6.0/Agenda.csproj.AssemblyReference.cache
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/obj/Debug/net6.0/Agenda.data.Azure_Data_Studio.app.Contents.Resources.app.extensions.mssql.sqltoolsservice.OSX._4._2._1._6.ErrorModel.Assessment.AssessmentErrorModelResources.resources
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/obj/Debug/net6.0/Agenda.data.Azure_Data_Studio.app.Contents.Resources.app.extensions.mssql.sqltoolsservice.OSX._4._2._1._6.ErrorModel.Common.GeneralErrorModelResources.resources
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/obj/Debug/net6.0/Agenda.data.Azure_Data_Studio.app.Contents.Resources.app.extensions.mssql.sqltoolsservice.OSX._4._2._1._6.ErrorModel.SkuRecommendation.ErrorModelResources.resources
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/obj/Debug/net6.0/Agenda.data.Azure_Data_Studio.app.Contents.Resources.app.extensions.mssql.sqltoolsservice.OSX._4._2._1._6.JustificationResources.resources
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/obj/Debug/net6.0/Agenda.data.Azure_Data_Studio.app.Contents.Resources.app.extensions.mssql.sqltoolsservice.OSX._4._2._1._6.TargetAssessment.AzureSQLDatabase.SqlDbRuleResources.resources
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/obj/Debug/net6.0/Agenda.data.Azure_Data_Studio.app.Contents.Resources.app.extensions.mssql.sqltoolsservice.OSX._4._2._1._6.TargetAssessment.ManagedInstance.MIRuleResources.resources
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/obj/Debug/net6.0/Agenda.data.Azure_Data_Studio.app.Contents.Resources.app.extensions.mssql.sqltoolsservice.OSX._4._2._1._6.TargetAssessment.SqlServer.SqlServerRuleResources.resources
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/obj/Debug/net6.0/Agenda.csproj.GenerateResource.cache
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/obj/Debug/net6.0/Agenda.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/obj/Debug/net6.0/Agenda.AssemblyInfoInputs.cache
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/obj/Debug/net6.0/Agenda.AssemblyInfo.cs
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/obj/Debug/net6.0/Agenda.csproj.CoreCompileInputs.cache
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/obj/Debug/net6.0/Agenda.MvcApplicationPartsAssemblyInfo.cs
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/obj/Debug/net6.0/Agenda.MvcApplicationPartsAssemblyInfo.cache
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/obj/Debug/net6.0/staticwebassets.build.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/obj/Debug/net6.0/staticwebassets.development.json
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/obj/Debug/net6.0/scopedcss/bundle/Agenda.styles.css
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/obj/Debug/net6.0/Agenda.csproj.CopyComplete
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/obj/Debug/net6.0/Agenda.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/obj/Debug/net6.0/refint/Agenda.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/obj/Debug/net6.0/Agenda.pdb
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/obj/Debug/net6.0/Agenda.genruntimeconfig.cache
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/obj/Debug/net6.0/ref/Agenda.dll
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/obj/Debug/net6.0/Agenda.RazorAssemblyInfo.cache
+/Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/obj/Debug/net6.0/Agenda.RazorAssemblyInfo.cs

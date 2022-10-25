@@ -1,0 +1,18 @@
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Telefone</th>
+    </tr>
+
+    @foreach (var item in ViewBag.Agenda)
+    {
+        <tr>
+            <td>
+                @item.name;
+            </td>
+            <td>
+                @item.telefone;
+            </td>
+        </tr>
+    }
+</table>

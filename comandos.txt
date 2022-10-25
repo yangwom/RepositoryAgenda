@@ -1,0 +1,12 @@
+dotnet new api
+
+docker run -e 'ACCEPT_EULA=1' -e 'MSSQL_SA_PASSWORD=Trybe12345678' -p 1433:1433 -v /Users/danilosilva/Documents/Trybe/C#/mentoria-mvc/Agenda/data:/var/opt/mssql/data -d mcr.microsoft.com/azure-sql-edge:latest
+
+
+CREATE TABLE Agenda
+(
+    id INT NOT NULL PRIMARY KEY IDENTITY(1,1),
+    name VARCHAR(200) NOT NULL,
+    telefone VARCHAR(20) NOT NULL
+)
+
